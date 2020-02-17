@@ -1,0 +1,37 @@
+body,textarea,pre{
+    background-color: #21262d;
+    color: #fdfdfd;
+}
+
+textarea,pre{
+    width: 100%;
+    height: 500px;
+}
+
+nav>span>a{
+    text-decoration: none;
+}
+
+.comment{
+    color:#a5a5a5;
+}
+
+.string {
+    color: #e6db74  ;
+}
+
+.number {
+    color: #ae81ff ;
+}
+
+.boolean {
+    color: #66d9ef ;
+}
+
+.null {
+    color: #66d9ef ;
+}
+
+.key {
+    color: #f92672 ;
+}

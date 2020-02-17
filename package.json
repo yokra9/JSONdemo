@@ -1,0 +1,22 @@
+{
+  "name": "jsondemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --watch-content-base"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "hjson": "^3.2.1",
+    "js-yaml": "^3.13.1",
+    "jsonc-parser": "^2.2.0"
+  }
+}
