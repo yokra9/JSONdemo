@@ -17,6 +17,7 @@
   "dependencies": {
     "hjson": "^3.2.1",
     "js-yaml": "^3.13.1",
+    "json5": "^2.1.2",
     "jsonc-parser": "^2.2.1"
   }
 }
